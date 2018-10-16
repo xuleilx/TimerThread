@@ -1,5 +1,5 @@
 # TimerThread
-One Timer per Thread
+One Timer per Thread based on timerfd
 
 # Install Boost
 sudo apt-get install libboost-dev libboost-test-dev
